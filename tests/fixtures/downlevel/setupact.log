@@ -1,0 +1,41 @@
+2026-01-01 10:00:00, Info                  MOUPG  *************** SetupHost Logging Begin ***************
+2026-01-01 10:00:02, Info                  MOUPG  Action progress: [0%]
+2026-01-01 10:00:05, Info                  MOUPG  Action progress: [21%]
+2026-01-01 10:00:09, Info                  MOUPG  Action progress: [100%]
+2026-01-01 10:00:40, Error                 MOUPG  CDlpTask::CheckUserInterrupt(3147): Result = 0x800704D3
+2026-01-01 10:00:40, Error                 MOUPG  CSetupManager::ExecuteInstallMode(1249): Result = 0x800705BB
+2026-01-01 10:00:41, Error                 MOUPG  CSetupHost::Execute(564): Result = 0x800705BB
+2026-01-01 10:00:55, Info                  MOUPG  *************** SetupHost Logging Begin ***************
+2026-01-01 10:01:20, Info                         Compatibility scan data is saved to C:\$WINDOWS.~BT\Sources\Panther\CompatData_2026_01_01_10_01_20_00000001.xml.
+2026-01-01 10:01:30, Error                        [SetupHost.Exe] IOCTL_STORAGE_QUERY_PROPERTY failed: 0x1
+2026-01-01 10:01:31, Error                        CDeploymentSession::IsRangeRequestSupported(5313): Result = 0x80040154
+2026-01-01 10:01:40, Info                  MOUPG  FCDCATHelper: Transfer: [0x0 / 0x100000000] [0%] [0 bytes/s] [0 Avg bytes/s] [0 s left]
+2026-01-01 10:04:00, Info                  MOUPG  Action progress: [40%]
+2026-01-01 10:09:00, Info                  MOUPG  FCDCATHelper: Transfer: [0x100000000 / 0x100000000] [100%] [3400000 bytes/s] [3400000 Avg bytes/s] [0 s left]
+2026-01-01 10:10:00, Info                         Expanding express MumX: Windows11.0-KB0000000-x64.mumx.esd
+2026-01-01 10:28:00, Info                  MOUPG  Action progress: [100%]
+2026-01-01 10:28:01, Info                  MOUPG  Action progress: [0%]
+2026-01-01 10:30:00, Info                  MOUPG  MoSetupPlatform: Restartable: [no]
+2026-01-01 10:30:00, Info                  MOUPG  DUImage: Searching for driver updates...
+2026-01-01 10:30:02, Error                 DU     DU::CDUSession::Search: Failed to set WU internal configuration property for targeted scans. hr = 0x80070057
+2026-01-01 10:31:00, Info                  MOUPG  SetupManager: Rollback Enabled via scenario detection.
+2026-01-01 10:31:00, Info                  MOUPG  DiskSpaceInstallReq: Initializing RollbackOption:               [2]
+2026-01-01 10:31:02, Info                  SP     OPERATIONTRACK: Add phase: 1|Downlevel
+2026-01-01 10:31:02, Info                  SP     OPERATIONTRACK: Enqueue Operation:  75|Prepare SafeOS for rollback
+2026-01-01 10:31:02, Info                  SP     OPERATIONTRACK: Enqueue Operation: 116|Orchestrate OS switch for NewOS with safe OS SafeOS and rollback OS ExternalRollback. DelayedSwitch: 0
+2026-01-01 10:31:40, Info                  SP       Operation (remaining): Orchestrate OS switch for NewOS with safe OS SafeOS and rollback OS ExternalRollback. DelayedSwitch: 1
+2026-01-01 10:32:00, Info                  MOUPG  ImageDeploy: Initializing RollbackType:          [2]
+2026-01-01 10:32:02, Info       [0x064147] IBSLIB RollbackInitialize in progress...
+2026-01-01 10:33:00, Info                  MOUPG  Action progress: [30%]
+2026-01-01 10:40:00, Info                  SP     Executing operation: Gather data, scope: EVERYTHING
+2026-01-01 10:44:00, Info                  CBS    Session: 1_1 finalized. Reboot required: no, RepairNeeded: no [HRESULT = 0x00000000 - S_OK]
+2026-01-01 10:45:00, Info                  SP     Executing operation: Backup the recovery partition to C:\$WINDOWS.~BT\Sources\RecoveryPartitionBackup
+2026-01-01 11:00:00, Info                  MOUPG  Action progress: [60%]
+2026-01-01 11:10:00, Info                  SYSPRP ActionPlatform::LaunchModule: Successfully executed 'Sysprep_Specialize_Offline_Pnp' from C:\$WINDOWS.~BT\NewOS\Windows\System32\sppnp.dll (reboot requested)
+2026-01-01 11:15:00, Info                  MIG            Processing Registry: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\Plug and Play\Device Install Reboot Required
+2026-01-01 11:16:00, Info                  CBS    Failed to set hint EAs from the catalog \\?\C:\$WINDOWS.~BT\NewOS\Windows\Servicing\Packages\Example-Package.cat
+2026-01-01 11:25:00, Info                  SP     Executing operation: Ensure suspended services are stopped
+2026-01-01 11:25:01, Info                  SP     Executing operation: Install Eula
+2026-01-01 11:25:30, Info                  MOUPG  Action progress: [64%]
+2026-01-01 11:26:00, Info                  SP     Executing operation: Orchestrate OS switch for NewOS with safe OS SafeOS and rollback OS ExternalRollback. DelayedSwitch: 1
+2026-01-01 11:26:06, Info                  MOUPG  Action progress: [100%]

@@ -1,0 +1,15 @@
+{
+  "name": "win-upgrade-doctor",
+  "owner": {
+    "name": "haifengli0527",
+    "url": "https://github.com/haifengli0527"
+  },
+  "plugins": [
+    {
+      "name": "win-upgrade-doctor",
+      "source": "./",
+      "description": "Pre-flight checks, live log monitoring, failure diagnosis and post-upgrade verification for Windows 10/11 feature upgrades.",
+      "version": "0.1.0"
+    }
+  ]
+}

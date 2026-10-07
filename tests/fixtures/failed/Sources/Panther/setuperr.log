@@ -1,0 +1,4 @@
+2026-01-01 23:00:00, Error                        [SetupHost.Exe] IOCTL_STORAGE_QUERY_PROPERTY failed: 0x1
+2026-01-01 23:10:00, Error      [0x0808fe] MIG    Plugin {00000000-0000-0000-0000-000000000000}: TableTextServiceMig!ApplySuccess() remove HKLM Registries error
+2026-01-01 23:20:00, Error                        WinSetupMon::GetStablePath: Failed GetNtPath [R:\Tmp] (0xC0000034)
+2026-01-01 23:20:00, Error                 SP     SETUPMON: Failed to install the monitoring filter driver. Error: 0xD0000034

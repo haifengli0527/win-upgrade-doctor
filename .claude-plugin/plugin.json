@@ -1,0 +1,13 @@
+{
+  "name": "win-upgrade-doctor",
+  "version": "0.1.0",
+  "description": "Pre-flight checks, live log monitoring, failure diagnosis and post-upgrade verification for Windows 10/11 feature upgrades (0xC1900101 and friends).",
+  "author": {
+    "name": "haifengli0527",
+    "url": "https://github.com/haifengli0527"
+  },
+  "homepage": "https://github.com/haifengli0527/win-upgrade-doctor",
+  "repository": "https://github.com/haifengli0527/win-upgrade-doctor",
+  "license": "MIT",
+  "keywords": ["windows", "upgrade", "0xC1900101", "setupdiag", "troubleshooting", "powershell"]
+}

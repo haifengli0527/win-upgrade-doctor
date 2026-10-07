@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.bak_*
+# Never commit real setup logs; fixtures under tests/fixtures are synthetic
+*.raw
+*.evtx
+*.dmp

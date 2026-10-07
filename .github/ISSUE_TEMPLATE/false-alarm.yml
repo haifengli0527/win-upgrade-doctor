@@ -1,0 +1,30 @@
+name: Misread log line / 誤判的日誌訊息
+description: A script flagged a harmless line, or missed a real warning / 腳本誤報無害訊息，或漏掉真正的警訊
+labels: ["filter-rule"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind / 類型
+      options: ["False alarm (harmless line reported) / 誤報", "Missed warning / 漏報"]
+    validations:
+      required: true
+  - type: dropdown
+    id: script
+    attributes:
+      label: Script / 腳本
+      options: ["watch.ps1", "diagnose.ps1", "preflight.ps1", "postcheck.ps1"]
+    validations:
+      required: true
+  - type: textarea
+    id: line
+    attributes:
+      label: The log line(s), redacted / 日誌原文（已遮蔽）
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What actually happened next / 後來實際的結果
+      description: e.g. the upgrade continued fine, or it rebooted 1 minute later / 例如升級照常進行，或一分鐘後重開機

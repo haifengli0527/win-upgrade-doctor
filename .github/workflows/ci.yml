@@ -1,0 +1,27 @@
+name: Quality checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  repo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python tests/run_tests.py
+      - run: git diff --check
+
+  scripts:
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        shell: [powershell, pwsh]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Script behaviour (${{ matrix.shell }})
+        run: ${{ matrix.shell }} -NoProfile -ExecutionPolicy Bypass -File tests\test_scripts.ps1
+        shell: cmd

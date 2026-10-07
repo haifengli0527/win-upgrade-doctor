@@ -1,0 +1,10 @@
+2026-01-02 09:00:00, Info                  SP     Initiating rollback/uninstall, phase = 0
+2026-01-02 09:00:01, Info                  SP     Current phase string : SafeOS,Start
+2026-01-02 09:00:01, Info                  SP     Current bugcheck string: NULL
+2026-01-02 09:00:01, Info                  SP     Current phase : 2
+2026-01-02 09:00:01, Warning                      ExtractBugCheckInfo: Valid Dump/ Signature not found, error 0x00000490
+2026-01-02 09:00:01, Info                  SP     No crash detected. Try to get the binary info of last crash dump.
+2026-01-02 09:02:00, Info                  SP     BsdSummarize Diagnostic Information: FatalErrorCode:0
+2026-01-02 09:02:01, Info                  MOUPG  Failed install count for build [10.0.26100.1000] is [1]
+2026-01-02 09:02:01, Info                  MOUPG  SetupHost: Reporting post reboot event -> [0xC1900101, 0x2000D]
+2026-01-02 09:02:01, Info                  MOUPG  Finalize: Remapping install error [0xC1900101] -> [0xC1900108] for telemetry.

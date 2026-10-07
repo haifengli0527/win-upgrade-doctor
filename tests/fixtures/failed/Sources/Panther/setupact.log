@@ -1,0 +1,244 @@
+2026-01-01 23:00:00, Info                  MOUPG  *************** SetupHost Logging Begin ***************
+2026-01-01 23:30:00, Info                  SP     Executing operation: Gather data, scope: EVERYTHING
+2026-01-01 23:40:00, Info                  CONX   Name: Example Backup Suite, Path: C:\Program Files\ExampleBackup\service.exe, State: 266240
+2026-01-01 23:41:00, Info                  MIG            CAddSystemServicesExpander::BuildCache -(example_flt)- Driver Path: C:\Windows\System32\drivers\example_flt.sys
+2026-01-02 02:00:00, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5000_100000
+2026-01-02 02:00:00, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5000_100000
+2026-01-02 02:00:01, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5001_100007
+2026-01-02 02:00:01, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5001_100007
+2026-01-02 02:00:02, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5002_100014
+2026-01-02 02:00:02, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5002_100014
+2026-01-02 02:00:03, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5003_100021
+2026-01-02 02:00:03, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5003_100021
+2026-01-02 02:00:04, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5004_100028
+2026-01-02 02:00:04, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5004_100028
+2026-01-02 02:00:05, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5005_100035
+2026-01-02 02:00:05, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5005_100035
+2026-01-02 02:00:06, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5006_100042
+2026-01-02 02:00:06, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5006_100042
+2026-01-02 02:00:07, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5007_100049
+2026-01-02 02:00:07, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5007_100049
+2026-01-02 02:00:08, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5008_100056
+2026-01-02 02:00:08, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5008_100056
+2026-01-02 02:00:09, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5009_100063
+2026-01-02 02:00:09, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5009_100063
+2026-01-02 02:00:10, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5010_100070
+2026-01-02 02:00:10, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5010_100070
+2026-01-02 02:00:11, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5011_100077
+2026-01-02 02:00:11, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5011_100077
+2026-01-02 02:00:12, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5012_100084
+2026-01-02 02:00:12, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5012_100084
+2026-01-02 02:00:13, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5013_100091
+2026-01-02 02:00:13, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5013_100091
+2026-01-02 02:00:14, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5014_100098
+2026-01-02 02:00:14, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5014_100098
+2026-01-02 02:00:15, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5015_100105
+2026-01-02 02:00:15, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5015_100105
+2026-01-02 02:00:16, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5016_100112
+2026-01-02 02:00:16, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5016_100112
+2026-01-02 02:00:17, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5017_100119
+2026-01-02 02:00:17, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5017_100119
+2026-01-02 02:00:18, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5018_100126
+2026-01-02 02:00:18, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5018_100126
+2026-01-02 02:00:19, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5019_100133
+2026-01-02 02:00:19, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5019_100133
+2026-01-02 02:00:20, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5020_100140
+2026-01-02 02:00:20, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5020_100140
+2026-01-02 02:00:21, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5021_100147
+2026-01-02 02:00:21, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5021_100147
+2026-01-02 02:00:22, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5022_100154
+2026-01-02 02:00:22, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5022_100154
+2026-01-02 02:00:23, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5023_100161
+2026-01-02 02:00:23, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5023_100161
+2026-01-02 02:00:24, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5024_100168
+2026-01-02 02:00:24, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5024_100168
+2026-01-02 02:00:25, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5025_100175
+2026-01-02 02:00:25, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5025_100175
+2026-01-02 02:00:26, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5026_100182
+2026-01-02 02:00:26, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5026_100182
+2026-01-02 02:00:27, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5027_100189
+2026-01-02 02:00:27, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5027_100189
+2026-01-02 02:00:28, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5028_100196
+2026-01-02 02:00:28, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5028_100196
+2026-01-02 02:00:29, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5029_100203
+2026-01-02 02:00:29, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5029_100203
+2026-01-02 02:00:30, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5030_100210
+2026-01-02 02:00:30, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5030_100210
+2026-01-02 02:00:31, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5031_100217
+2026-01-02 02:00:31, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5031_100217
+2026-01-02 02:00:32, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5032_100224
+2026-01-02 02:00:32, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5032_100224
+2026-01-02 02:00:33, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5033_100231
+2026-01-02 02:00:33, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5033_100231
+2026-01-02 02:00:34, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5034_100238
+2026-01-02 02:00:34, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5034_100238
+2026-01-02 02:00:35, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5035_100245
+2026-01-02 02:00:35, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5035_100245
+2026-01-02 02:00:36, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5036_100252
+2026-01-02 02:00:36, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5036_100252
+2026-01-02 02:00:37, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5037_100259
+2026-01-02 02:00:37, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5037_100259
+2026-01-02 02:00:38, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5038_100266
+2026-01-02 02:00:38, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5038_100266
+2026-01-02 02:00:39, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5039_100273
+2026-01-02 02:00:39, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5039_100273
+2026-01-02 02:00:40, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5040_100280
+2026-01-02 02:00:40, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5040_100280
+2026-01-02 02:00:41, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5041_100287
+2026-01-02 02:00:41, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5041_100287
+2026-01-02 02:00:42, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5042_100294
+2026-01-02 02:00:42, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5042_100294
+2026-01-02 02:00:43, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5043_100301
+2026-01-02 02:00:43, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5043_100301
+2026-01-02 02:00:44, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5044_100308
+2026-01-02 02:00:44, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5044_100308
+2026-01-02 02:00:45, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5045_100315
+2026-01-02 02:00:45, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5045_100315
+2026-01-02 02:00:46, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5046_100322
+2026-01-02 02:00:46, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5046_100322
+2026-01-02 02:00:47, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5047_100329
+2026-01-02 02:00:47, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5047_100329
+2026-01-02 02:00:48, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5048_100336
+2026-01-02 02:00:48, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5048_100336
+2026-01-02 02:00:49, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5049_100343
+2026-01-02 02:00:49, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5049_100343
+2026-01-02 02:00:50, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5050_100350
+2026-01-02 02:00:50, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5050_100350
+2026-01-02 02:00:51, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5051_100357
+2026-01-02 02:00:51, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5051_100357
+2026-01-02 02:00:52, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5052_100364
+2026-01-02 02:00:52, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5052_100364
+2026-01-02 02:00:53, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5053_100371
+2026-01-02 02:00:53, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5053_100371
+2026-01-02 02:00:54, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5054_100378
+2026-01-02 02:00:54, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5054_100378
+2026-01-02 02:00:55, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5055_100385
+2026-01-02 02:00:55, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5055_100385
+2026-01-02 02:00:56, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5056_100392
+2026-01-02 02:00:56, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5056_100392
+2026-01-02 02:00:57, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5057_100399
+2026-01-02 02:00:57, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5057_100399
+2026-01-02 02:00:58, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5058_100406
+2026-01-02 02:00:58, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5058_100406
+2026-01-02 02:00:59, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5059_100413
+2026-01-02 02:00:59, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5059_100413
+2026-01-02 02:01:00, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5060_100420
+2026-01-02 02:01:00, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5060_100420
+2026-01-02 02:01:01, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5061_100427
+2026-01-02 02:01:01, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5061_100427
+2026-01-02 02:01:02, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5062_100434
+2026-01-02 02:01:02, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5062_100434
+2026-01-02 02:01:03, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5063_100441
+2026-01-02 02:01:03, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5063_100441
+2026-01-02 02:01:04, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5064_100448
+2026-01-02 02:01:04, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5064_100448
+2026-01-02 02:01:05, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5065_100455
+2026-01-02 02:01:05, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5065_100455
+2026-01-02 02:01:06, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5066_100462
+2026-01-02 02:01:06, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5066_100462
+2026-01-02 02:01:07, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5067_100469
+2026-01-02 02:01:07, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5067_100469
+2026-01-02 02:01:08, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5068_100476
+2026-01-02 02:01:08, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5068_100476
+2026-01-02 02:01:09, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5069_100483
+2026-01-02 02:01:09, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5069_100483
+2026-01-02 02:01:10, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5070_100490
+2026-01-02 02:01:10, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5070_100490
+2026-01-02 02:01:11, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5071_100497
+2026-01-02 02:01:11, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5071_100497
+2026-01-02 02:01:12, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5072_100504
+2026-01-02 02:01:12, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5072_100504
+2026-01-02 02:01:13, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5073_100511
+2026-01-02 02:01:13, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5073_100511
+2026-01-02 02:01:14, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5074_100518
+2026-01-02 02:01:14, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5074_100518
+2026-01-02 02:01:15, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5075_100525
+2026-01-02 02:01:15, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5075_100525
+2026-01-02 02:01:16, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5076_100532
+2026-01-02 02:01:16, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5076_100532
+2026-01-02 02:01:17, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5077_100539
+2026-01-02 02:01:17, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5077_100539
+2026-01-02 02:01:18, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5078_100546
+2026-01-02 02:01:18, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5078_100546
+2026-01-02 02:01:19, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5079_100553
+2026-01-02 02:01:19, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5079_100553
+2026-01-02 02:01:20, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5080_100560
+2026-01-02 02:01:20, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5080_100560
+2026-01-02 02:01:21, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5081_100567
+2026-01-02 02:01:21, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5081_100567
+2026-01-02 02:01:22, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5082_100574
+2026-01-02 02:01:22, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5082_100574
+2026-01-02 02:01:23, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5083_100581
+2026-01-02 02:01:23, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5083_100581
+2026-01-02 02:01:24, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5084_100588
+2026-01-02 02:01:24, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5084_100588
+2026-01-02 02:01:25, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5085_100595
+2026-01-02 02:01:25, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5085_100595
+2026-01-02 02:01:26, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5086_100602
+2026-01-02 02:01:26, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5086_100602
+2026-01-02 02:01:27, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5087_100609
+2026-01-02 02:01:27, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5087_100609
+2026-01-02 02:01:28, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5088_100616
+2026-01-02 02:01:28, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5088_100616
+2026-01-02 02:01:29, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5089_100623
+2026-01-02 02:01:29, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5089_100623
+2026-01-02 02:01:30, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5090_100630
+2026-01-02 02:01:30, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5090_100630
+2026-01-02 02:01:31, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5091_100637
+2026-01-02 02:01:31, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5091_100637
+2026-01-02 02:01:32, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5092_100644
+2026-01-02 02:01:32, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5092_100644
+2026-01-02 02:01:33, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5093_100651
+2026-01-02 02:01:33, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5093_100651
+2026-01-02 02:01:34, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5094_100658
+2026-01-02 02:01:34, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5094_100658
+2026-01-02 02:01:35, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5095_100665
+2026-01-02 02:01:35, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5095_100665
+2026-01-02 02:01:36, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5096_100672
+2026-01-02 02:01:36, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5096_100672
+2026-01-02 02:01:37, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5097_100679
+2026-01-02 02:01:37, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5097_100679
+2026-01-02 02:01:38, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5098_100686
+2026-01-02 02:01:38, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5098_100686
+2026-01-02 02:01:39, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5099_100693
+2026-01-02 02:01:39, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5099_100693
+2026-01-02 02:01:40, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5100_100700
+2026-01-02 02:01:40, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5100_100700
+2026-01-02 02:01:41, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5101_100707
+2026-01-02 02:01:41, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5101_100707
+2026-01-02 02:01:42, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5102_100714
+2026-01-02 02:01:42, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5102_100714
+2026-01-02 02:01:43, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5103_100721
+2026-01-02 02:01:43, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5103_100721
+2026-01-02 02:01:44, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5104_100728
+2026-01-02 02:01:44, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5104_100728
+2026-01-02 02:01:45, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5105_100735
+2026-01-02 02:01:45, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5105_100735
+2026-01-02 02:01:46, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5106_100742
+2026-01-02 02:01:46, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5106_100742
+2026-01-02 02:01:47, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5107_100749
+2026-01-02 02:01:47, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5107_100749
+2026-01-02 02:01:48, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5108_100756
+2026-01-02 02:01:48, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5108_100756
+2026-01-02 02:01:49, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5109_100763
+2026-01-02 02:01:49, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5109_100763
+2026-01-02 02:01:50, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5110_100770
+2026-01-02 02:01:50, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5110_100770
+2026-01-02 02:01:51, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5111_100777
+2026-01-02 02:01:51, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5111_100777
+2026-01-02 02:01:52, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5112_100784
+2026-01-02 02:01:52, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5112_100784
+2026-01-02 02:01:53, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5113_100791
+2026-01-02 02:01:53, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5113_100791
+2026-01-02 02:01:54, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5114_100798
+2026-01-02 02:01:54, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5114_100798
+2026-01-02 02:01:55, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5115_100805
+2026-01-02 02:01:55, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5115_100805
+2026-01-02 02:01:56, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5116_100812
+2026-01-02 02:01:56, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5116_100812
+2026-01-02 02:01:57, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5117_100819
+2026-01-02 02:01:57, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5117_100819
+2026-01-02 02:01:58, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5118_100826
+2026-01-02 02:01:58, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5118_100826
+2026-01-02 02:01:59, Info                  MIG            Processing File: C:\Windows\SystemTemp\msedge_url_fetcher_5119_100833
+2026-01-02 02:01:59, Info                                 RECAPPLY: Recursively applied (delayed execution): F:\Windows\SystemTemp\msedge_url_fetcher_5119_100833
